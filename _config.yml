@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cute_grey_kitten.jpg/800px-Cute_grey_kitten.jpg?20110625205814"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
